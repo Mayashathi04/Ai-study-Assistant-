@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "An intelligent study workspace featuring document summaries, multi-lingual AI tutoring, dynamic practice quizzes, active recall flashcards, progress analytics, and custom examination study schedulers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
